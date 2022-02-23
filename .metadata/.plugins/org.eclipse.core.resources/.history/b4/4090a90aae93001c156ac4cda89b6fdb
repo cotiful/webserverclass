@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<ul>
+<li>
+<a href="/user/login.html">로그인 홈페이지</a></li>
+<li><a href="/user/join.html">회원가입 홈페이지</a></li>
+<li><a href="/user/userInfo.html">회원정보 홈페이지</a></li> 
+<li><a href="/post/list.html">글목록 홈페이지</a></li>
+</ul>
+
+<%
+String name = "황재민";
+String phone ="0101232222";
+%>
+
+<h1>회원정보 페이지입니다.</h1>
+<h3>이름:<%=name%> 전화번호:<%=phone%> </h3>
+<hr/>
+</body>
+</html>
