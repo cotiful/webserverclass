@@ -1,12 +1,8 @@
 INDEX VERSION 1.131+/Users/green_workspace/web_lab/eclipse/.metadata/.plugins/org.eclipse.jdt.core
-3902479494.index
 265659800.index
-325783306.index
 2754162666.index
 1310020082.index
-3917829919.index
 599321073.index
-3949136104.index
 225000352.index
 829810260.index
 3912178475.index
@@ -14,7 +10,6 @@ INDEX VERSION 1.131+/Users/green_workspace/web_lab/eclipse/.metadata/.plugins/or
 3389022323.index
 2331521816.index
 2713724343.index
-795773317.index
 199337572.index
 3904947507.index
 1568799881.index
@@ -25,17 +20,19 @@ INDEX VERSION 1.131+/Users/green_workspace/web_lab/eclipse/.metadata/.plugins/or
 3081473299.index
 1583749961.index
 3208733756.index
-4256342856.index
 1794838815.index
 4156256120.index
+885315221.index
 1940819835.index
 2299885734.index
 2443627347.index
-1685245295.index
+2213157817.index
 2908026294.index
+1685245295.index
 513244379.index
 1030375915.index
-2509487207.index
 3465238923.index
+2509487207.index
 3629677323.index
 3508386667.index
+3512768980.index
